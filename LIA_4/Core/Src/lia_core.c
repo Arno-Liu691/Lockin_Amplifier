@@ -7,7 +7,7 @@ static NCO_LUT_t   g_nco_demod;
 #define AMP_CAL_OFFSET_RATIO    1.0f
 #define PHASE_DELAY_INTERCEPT_DEG  0.0f
 #define PHASE_DELAY_SLOPE_DEG_PER_HZ  0.0f
-#define SYSTEM_DELAY 0.002777778f
+#define SYSTEM_DELAY 0.0028611111f
 
 #define bw_default 9
 
