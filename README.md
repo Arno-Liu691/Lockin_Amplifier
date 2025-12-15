@@ -22,7 +22,7 @@ A digital lockin amplifier with front end analogue amplification and digital dec
 
 
 
-\- \*\*Final\_draft\_AD8429\*\*  
+\- \*\*AFE\*\*  
 
 &nbsp; LTspice simulation file(s) for the analog front-end based on the AD8429 instrumentation amplifier.
 
