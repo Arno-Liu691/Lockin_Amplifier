@@ -1,0 +1,5 @@
+../Core/Src/nco_lut.c:5:6:NCO_LUT_Generate	2
+../Core/Src/nco_lut.c:14:17:phase_from_offset	3
+../Core/Src/nco_lut.c:22:6:NCO_LUT_Init	1
+../Core/Src/nco_lut.c:29:6:NCO_LUT_SetFreq	3
+../Core/Src/nco_lut.c:38:6:NCO_LUT_SetPhaseOffset	1

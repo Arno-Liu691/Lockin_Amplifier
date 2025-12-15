@@ -1,0 +1,4 @@
+../Core/Src/serial_if.c:7:6:Serial_Print	16	static
+../Core/Src/serial_if.c:12:6:Serial_Printf	144	static
+../Core/Src/serial_if.c:22:5:Serial_ReadLine	24	static
+../Core/Src/serial_if.c:45:5:Serial_ReadFloat	56	static

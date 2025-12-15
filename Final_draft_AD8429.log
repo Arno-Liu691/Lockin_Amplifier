@@ -1,0 +1,134 @@
+LTspice 24.1.10 for Windows
+Circuit: D:\IC\AdInst\LIA_design\Final_draft_AD8429.net
+Start Time: Tue Dec  9 18:22:20 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Instance "u1:M5": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M6": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M1": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M2": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M3": Length shorter than recommended for a level 2 MOSFET.
+Instance "u1:M4": Length shorter than recommended for a level 2 MOSFET.
+Instance "u3:xi26:M5": Width narrower than recommended for a level 2 MOSFET.
+Instance "u3:xi26:M6": Width narrower than recommended for a level 2 MOSFET.
+Instance "u3:xi25:M5": Width narrower than recommended for a level 2 MOSFET.
+Instance "u3:xi25:M6": Width narrower than recommended for a level 2 MOSFET.
+Instance "u3:xi24:M5": Width narrower than recommended for a level 2 MOSFET.
+Instance "u3:xi24:M6": Width narrower than recommended for a level 2 MOSFET.
+Instance "u3:xi23:M5": Width narrower than recommended for a level 2 MOSFET.
+Instance "u3:xi23:M6": Width narrower than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 2.07126
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 2.14262
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 2.13636
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 18.75%
+Source Step = 20.6439%
+Source Step = 22.5379%
+Source Step = 24.4318%
+Source Step = 26.3258%
+vernier = 0.09375
+Source Step = 28.4091%
+Source Step = 31.25%
+Source Step = 34.0909%
+Source Step = 36.9318%
+Source Step = 39.7727%
+vernier = 0.140625
+Source Step = 42.7557%
+Source Step = 47.017%
+Source Step = 51.2784%
+Source Step = 52.164%
+Source Step = 52.2306%
+Source Step = 52.2971%
+Source Step = 52.3637%
+Source Step = 52.4303%
+vernier = 0.0032959
+Source Step = 52.5002%
+Source Step = 52.6001%
+Source Step = 52.7%
+Source Step = 52.7998%
+Source Step = 52.8997%
+Source Step = 52.9996%
+vernier = 0.00494385
+Source Step = 53.1494%
+Source Step = 53.2992%
+Source Step = 53.449%
+Source Step = 53.5989%
+Source Step = 53.7487%
+vernier = 0.00741577
+Source Step = 53.9659%
+Source Step = 54.1906%
+Source Step = 54.4153%
+Source Step = 54.6401%
+Source Step = 54.8648%
+vernier = 0.0111237
+Source Step = 55.1794%
+Source Step = 55.5165%
+Source Step = 55.8535%
+Source Step = 56.1906%
+Source Step = 56.5277%
+vernier = 0.0166855
+Source Step = 56.9828%
+Source Step = 57.4884%
+Source Step = 57.994%
+Source Step = 58.4996%
+Source Step = 59.0053%
+vernier = 0.0250282
+Source Step = 59.6626%
+Source Step = 60.421%
+Source Step = 61.1794%
+Source Step = 61.9379%
+Source Step = 62.6963%
+vernier = 0.0375423
+Source Step = 63.6443%
+Source Step = 64.782%
+Source Step = 65.9196%
+Source Step = 67.0573%
+Source Step = 68.1949%
+vernier = 0.0563135
+Source Step = 69.5601%
+Source Step = 71.2666%
+Source Step = 72.973%
+Source Step = 74.6795%
+Source Step = 76.386%
+vernier = 0.0844703
+Source Step = 78.3484%
+Source Step = 80.9081%
+Source Step = 83.4678%
+Source Step = 86.0275%
+Source Step = 88.5872%
+vernier = 0.126705
+Source Step = 91.4029%
+Source Step = 95.2425%
+Source Step = 99.082%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 4.906 seconds.
+
+Files loaded:
+D:\IC\AdInst\LIA_design\Final_draft_AD8429.net
+C:\Users\Arno\AppData\Local\LTspice\lib\sub\AD8601.lib
+C:\Users\Arno\AppData\Local\LTspice\lib\sub\ADA4898.sub
+C:\Users\Arno\AppData\Local\LTspice\lib\sub\ADI1.lib
+C:\Users\Arno\AppData\Local\LTspice\lib\sub\LTC1563-2.sub
+
